@@ -1,0 +1,19 @@
+{
+  "name": "@projektgopher/shift",
+  "version": "1.0.0",
+  "description": "Laravel-shift workbench wrapper for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjektGopher/shift-npm.git"
+  },
+  "author": "Len Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjektGopher/shift-npm/issues"
+  },
+  "homepage": "https://github.com/ProjektGopher/shift-npm#readme"
+}
