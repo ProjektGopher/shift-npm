@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Laravel-shift workbench wrapper for npm",
   "main": "index.js",
+  "bin": {
+      "shift": "./cli.js"
+    },
+    "man": "./man/shift.txt",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
