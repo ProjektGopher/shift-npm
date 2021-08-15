@@ -1,6 +1,6 @@
 {
   "name": "@projektgopher/shift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel-shift workbench wrapper for npm",
   "main": "index.js",
   "bin": {
